@@ -20,6 +20,6 @@ better the results, share it with me!
 I though about use something like a spreadsheet to show the results, but
 the embeded documents make this task very difficult.
 
-!(https://raw.github.com/agonzalezro/gmongo/master/docs/screen1.png)
+![Screenshot 1](https://raw.github.com/agonzalezro/gmongo/master/docs/screen1.png)
 
-!(https://raw.github.com/agonzalezro/gmongo/master/docs/screen2.png)
+![Screenshot 2](https://raw.github.com/agonzalezro/gmongo/master/docs/screen2.png)
