@@ -1,5 +1,8 @@
 **STILL UNDER DEVELOPMENT! PLEASE, KEEP THIS IN MIND**
 
+**Furthermore, the OO on this project is crap but I was testing several ways.
+Must be fixed in the future!**
+
 What is this?
 -------------
 
